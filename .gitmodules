@@ -1,0 +1,3 @@
+[submodule "PopMovies"]
+	path = PopMovies
+	url = https://github.com/UMFsimke/PopMovies.git
